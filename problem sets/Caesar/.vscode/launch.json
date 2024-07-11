@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Study Materials/CS50/C/problem sets/Triangle",
-      "program": "d:/Study Materials/CS50/C/problem sets/Triangle/build/Debug/outDebug",
+      "cwd": "d:/Study Materials/CS50/C/problem sets/Caesar",
+      "program": "d:/Study Materials/CS50/C/problem sets/Caesar/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

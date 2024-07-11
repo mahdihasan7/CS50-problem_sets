@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Study Materials/CS50/C/problem sets/Sort",
-      "program": "d:/Study Materials/CS50/C/problem sets/Sort/build/Debug/outDebug",
+      "cwd": "d:/Study Materials/CS50/C/problem sets/Runoff",
+      "program": "d:/Study Materials/CS50/C/problem sets/Runoff/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
